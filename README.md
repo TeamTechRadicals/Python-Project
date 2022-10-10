@@ -1,6 +1,6 @@
 # RADICAL XSQUAD MATCHING ALGORITHM (PYTHON PROJECT)
 
-### `Install Require Packages and Programming Language`
+### `Install Required Packages and Programming Language`
 Install Visual Studio Code on your PC system
 https://code.visualstudio.com/download
 
