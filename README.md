@@ -1,4 +1,4 @@
-# RADICAL X SQUAD MATCHING ALGORITHM (PYTHON PROJECT)
+# RADICAL X SQUAD MATCHING ALGORITHM PYTHON PROJECT
 
 ### `Install Required Packages and Programming Language`
 Install Visual Studio Code on your PC system
