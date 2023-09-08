@@ -1,2 +1,2 @@
-response  = input("Are you checking out tomorrow? ")
+response  = input("Are you checking out today? ")
 print(f"{response}")
